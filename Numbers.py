@@ -8,9 +8,9 @@ Upper limit: 5
 4
 Please don't use the value True as the condition of your while loop in this exercise!
 """
-upper_limit = int(input(("Upper limit: "))
+upper_limit = int(input("Upper limit: "))
 number = 1
 while number < upper_limit:
     print(number)
-        number += 1
+    number += 1
 
